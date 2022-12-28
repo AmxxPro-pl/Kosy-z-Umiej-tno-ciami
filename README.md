@@ -23,6 +23,7 @@ new const kosy[][][] =
 ### ScreenShots
 
 <details>
+	<summary><b>Zdjęcia przedstawiające podstawowe działanie pluginu:</b></summary>
 - Główne menu skinów:
 	
 <img src="https://github.com/N1K1Cz/Kosy-z-Umiej-tno-ciami/blob/main/zdj/menu.png"></img>
