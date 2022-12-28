@@ -29,6 +29,6 @@ new const kosy[][][] =
 
 - Wiadomość gdy skin się ustawił:
 
-<img width="427" height="42" src="https://github.com/N1K1Cz/Kosy-z-Umiej-tno-ciami/blob/main/zdj/ustawienie_czat.png"></img>
+<img src="https://github.com/N1K1Cz/Kosy-z-Umiej-tno-ciami/blob/main/zdj/ustawienie_czat.png"></img>
 
 </details>
