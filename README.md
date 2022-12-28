@@ -1,5 +1,7 @@
 # Kosy z Umiejetnosciami
 
+<b> Podstawowy opis pluginu Kosy z Umiejętnościami (aby samemu sprawdzić plugin zgłoś się do właściciela poprzez discorda, chcesz go innaczej skonfigurować/dodać inne umiejętności? Napisz!)
+
 ## Compatibility
 - 1.8.3-dev+5142
 - 1.9-dev+5235
