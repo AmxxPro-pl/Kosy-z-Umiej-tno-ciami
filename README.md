@@ -1,12 +1,17 @@
-# Kosy z Umiejetnosciami
+<div align="center">
+<h1><p></p>Kosy z Umiejętnościami<p></p></h1>
+<img src="https://github.com/AmxxPro-pl/.github/blob/main/Banner.png"></img>
+</div>
+
+---
 
 <b> Podstawowy opis pluginu Kosy z Umiejętnościami (aby samemu sprawdzić plugin zgłoś się do właściciela poprzez discorda, chcesz go innaczej skonfigurować/dodać inne umiejętności? Napisz!)
 
-## Compatibility
+### Compatibility
 - 1.8.3-dev+5142
 - 1.9-dev+5235
 
-## Configuration
+### Configuration
 
 <details>
   <summary><b>Skiny z Umiejetnosciami:</b></summary>
